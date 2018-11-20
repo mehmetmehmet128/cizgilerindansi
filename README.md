@@ -1,0 +1,2 @@
+# cizgilerindansi
+İlk depom
